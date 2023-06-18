@@ -1,16 +1,16 @@
 Creator: GammaRaul - Regular User - Rank 5
 
-Class: Unpublished (This one apparently was actually released and later deleted, I don't remember this at all)
+Class: Unpublished (This one apparently was actually released and later deleted, I don't remember this at all.)
 
 Rating: 3.7%
 
-Votes: 7 (The ratings people left were sadly lost to time)
+Votes: 7 (The ratings people left were sadly lost to time.)
 
-Plays: 1 (Likely an error, as 1 person cannot leave 6 reviews)
+Plays: 1 (Likely an error, as 1 person cannot leave 6 reviews.)
 
-Favorited by: 2 (If the ratings are anything to go by then this is a miracle)
+Favorited by: 2 (If the ratings are anything to go by then this is a miracle.)
 
-Game: Super Mario Bros 3 (not to be confused with the NES game with the same name)
+Game: Super Mario Bros 3 (Not to be confused with the NES game with the same name.)
 
 Difficulty: Medium
 
