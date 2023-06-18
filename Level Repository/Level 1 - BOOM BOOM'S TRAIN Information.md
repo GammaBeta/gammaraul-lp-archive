@@ -1,7 +1,7 @@
 **Creator:** GammaRaul - Regular User - Rank 5 <br>
 **Class:** Unpublished (This one has actually released, but was later deleted by me.) <br>
 **Rating:** 23.7% <br>
-**Votes:** 6 (The ratings people left were sadly lost to time.) <br>
+**Votes:** 6 (The ratings that people left were sadly lost to time.) <br>
 **Plays:** 1 (Likely an error, as 1 person cannot leave 6 reviews.) <br>
 **Favorited by:** 0 <br>
 **Game:** Super Mario Bros 2 (I meant to put Super Mario Flash 2, but got confused.) <br>
