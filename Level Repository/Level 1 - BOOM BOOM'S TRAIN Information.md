@@ -1,5 +1,4 @@
-Creator: GammaRaul - Regular User - Rank 5
-
+**Creator:** GammaRaul - Regular User - Rank 5 <br>
 Class: Unpublished (This one has actually released, but was later deleted by me)
 
 Rating: 23.7%
