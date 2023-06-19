@@ -6,7 +6,7 @@
 **Favorited by:** 0 <br>
 **Game:** Super Mario Bros 2 (Not to be confused with the Nintendo Entartainment System game with the same name.) <br>
 **Difficulty:** Medium <br>
-**Published:** 08/08/16 at 11:24 AM
+**Published:** 08/08/16 at 14:24 UTC
 
 **Description:** its easy <br>
 **Contributors:** lol <br>
