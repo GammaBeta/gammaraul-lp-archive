@@ -1,6 +1,6 @@
 **Creator:** GammaRaul - Regular User - Rank 5 <br>
 **Class:** Unpublished (This one apparently was actually released and later deleted, I don't remember this at all.) <br>
-**Rating:** 3.7%
+**Rating:** 3.7% <br>
 **Votes:** 7 (The ratings that people left were sadly lost to time.) <br>
 **Plays:** 1 (Likely an error, as 1 person cannot leave 6 reviews.) <br>
 **Favorited by:** 2 (If the ratings are anything to go by then this is a miracle.) <br>
