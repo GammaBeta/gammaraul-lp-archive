@@ -1,13 +1,13 @@
 **Creator:** GammaRaul - Regular User - Rank 5 <br>
-**Class:** Unpublished (This one apparentlywas released and later deleted, I don't remember this at all.) <br>
-**Rating:** 3.7%
-**Votes:** 7 (The ratings that people left were sadly lost to time.) <br>
+**Class:** Unpublished (This one has actually released, but was later deleted by me.) <br>
+**Rating:** 22% <br>
+**Votes:** 5 (The ratings that people left were sadly lost to time.) <br>
 **Plays:** 1 (Likely an error, as 1 person cannot leave 6 reviews.) <br>
-**Favorited by:** 2 (If the ratings are anything to go by then this is a miracle.) <br>
-**Game:** Super Mario Bros 3 (Not to be confused with the Nintendo Entartainment System game with the same name.) <br>
+**Favorited by:** 0 <br>
+**Game:** Super Mario Bros 2 (Not to be confused with the Nintendo Entartainment System game with the same name.) <br>
 **Difficulty:** Medium <br>
-**Published:** 08/08/16 at 11:00 AM
+**Published:** 08/08/16 at 11:24 AM
 
-**Description:** time to fight bowser!!!! <br>
-**Contributors:** hard <br>
-**Additional Comments by Current Me:** I barely remember this, though after having played it, I understand the extremely low rating; It is the jankiest Bowser arena I have ever seen in my life.
+**Description:** its easy <br>
+**Contributors:** lol <br>
+**Additional Comments by Current Me:** I vaguely remember this, though I'm not sure, and I could just be mistaking this for something else.
