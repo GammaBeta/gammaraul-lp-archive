@@ -6,7 +6,7 @@
 **Favorited by:** 2 (If the ratings are anything to go by then this is a miracle.) <br>
 **Game:** Super Mario Bros 3 (Not to be confused with the Nintendo Entartainment System game with the same name.) <br>
 **Difficulty:** Medium <br>
-**Published:** 08/08/16 at 14:00 PM UTC
+**Published:** 08/08/16 at 14:00 UTC
 
 **Description:** time to fight bowser!!!! <br>
 **Contributors:** hard <br>
