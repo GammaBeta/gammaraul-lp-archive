@@ -7,7 +7,7 @@
 **Favorited by:** 0 <br>
 **Game:** Super Mario Bros 2 (I meant to put Super Mario Flash 2, but got confused. Not to be confused with the Nintendo Entartainment System game with the same name.) <br>
 **Game ID:** 2 <br>
-**Difficulty:** Easy (Perhaps it was bumped down by the ratings, or perhaaps I didn't set it correctly, either way it's weird that it's set as easy when, if my memory serves me right, I had trouble with the level.) <br>
+**Difficulty:** Easy (Perhaps it was bumped down by the ratings, or perhaps I didn't set it correctly, either way it's weird that it's set as easy when, if my memory serves me right, I had trouble with the level.) <br>
 **Difficulty Score:** 9 <br>
 **Saved:** 08/07/16 at 02:38 UTC <br>
 **Unix Epoch (Saving):** 1470623899 <br>
