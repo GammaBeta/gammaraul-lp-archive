@@ -1,12 +1,16 @@
 **Creator:** GammaRaul - Regular User - Rank 5 <br>
+**Level ID:** 6812 <br>
 **Class:** Unpublished (This one apparently was actually released and later deleted, I don't remember this at all.) <br>
 **Rating:** 3.7% <br>
 **Votes:** 7 (The ratings that people left were sadly lost to time.) <br>
 **Plays:** 1 (Likely an error, as 1 person cannot leave 6 reviews.) <br>
 **Favorited by:** 2 (If the ratings are anything to go by then this is a miracle.) <br>
 **Game:** Super Mario Bros 3 (Not to be confused with the Nintendo Entartainment System game with the same name.) <br>
+**Game ID:** 14 <br>
 **Difficulty:** Medium <br>
-**Published:** 08/08/16 at 14:00 UTC
+**Difficulty Score:** 14 <br>
+**Published:** 08/08/16 at 14:00 UTC <br>
+**Unix Time Stamp:** 1470664846
 
 **Description:** time to fight bowser!!!! <br>
 **Contributors:** hard <br>
