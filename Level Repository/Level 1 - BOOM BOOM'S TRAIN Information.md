@@ -6,9 +6,9 @@
 **Plays:** 1 (Likely an error, as 1 person cannot leave 6 reviews.) <br>
 **Favorited by:** 0 <br>
 **Game:** Super Mario Bros 2 (I meant to put Super Mario Flash 2, but got confused. Not to be confused with the Nintendo Entartainment System game with the same name.) <br>
-**Game ID:** 2
+**Game ID:** 2 <br>
 **Difficulty:** Easy (Perhaps it was bumped down by the ratings, or perhaaps I didn't set it correctly, either way it's weird that it's set as easy when, if my memory serves me right, I had trouble with the level.) <br>
-**Difficulty Score:** 9
+**Difficulty Score:** 9 <br>
 **Published:** 08/07/16 at 02:38 UTC
 
 **Description:** THATS HARD NOT TOO FOR THE PROS <br>
