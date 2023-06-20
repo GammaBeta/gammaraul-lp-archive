@@ -8,6 +8,25 @@
 **Difficulty:** Easy <br>
 **Published:** 08/08/2016 23:38 UTC (It doesn't say when the level was saved to the servers when you look at the site, but the site admins helped me get the timestamps for when the unreleased ones were saved)
 
-**Description:** its easy <br>
-**Contributors:** lol <br>
-**Additional Comments by Current Me:** I vaguely remember this, though I'm not sure, and I could just be mistaking this for something else; I do wonder why I said this was easy and BOOM BOOM'S TRAIN was hard when curent me had more trouble with this one than BOOM BOOM'S TRAIN. Oh well.
+**Description:** <br>
+MARIO BROS
+===============================================
+WORLD 1 (8%)
+
+WORLD 2 (0%)
+
+WORLD 3 (0%)
+
+WORLD 4 (0%)
+
+WORLD 5 (0%)
+
+WORLD 6 (0%)
+
+WORLD 7 (0%)
+
+WORLD 8 (0%)
+===============================================
+1-2 Coming soon <br>
+**Contributors:** made by:raul <br>
+**Additional Comments by Current Me:** This is just a 1-1 remake, and apparently I wanted to make the entire game; That would've been just a waste. I do wonder why the description says 8% though, at least I finally figured out that the Contributors part was for it seems.
