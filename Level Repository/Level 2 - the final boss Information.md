@@ -10,9 +10,9 @@
 **Difficulty:** Medium <br>
 **Difficulty Score:** 14 <br>
 **Saved:** 08/08/16 at 14:00 UTC <br>
-**Unix Epoch (Saving):** 1470664846 <br>
+**Unix Epoch Time (Saving):** 1470664846 <br>
 **Published:** 08/08/16 at 14:00 UTC <br>
-**Unix Epoch (Publishing):** 1470664846
+**Unix Epoch Time (Publishing):** 1470664846
 
 **Description:** time to fight bowser!!!! <br>
 **Contributors:** hard <br>
