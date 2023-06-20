@@ -10,4 +10,4 @@
 
 **Description:** its easy <br>
 **Contributors:** lol <br>
-**Additional Comments by Current Me:** I vaguely remember this, though I'm not sure, and I could just be mistaking this for something else. No further comment.
+**Additional Comments by Current Me:** I vaguely remember this, though I'm not sure, and I could just be mistaking this for something else; I do wonder why I said this was easy and BOOM BOOM'S TRAIN was hard when curent me had more trouble with this one than BOOM BOOM'S TRAIN. Oh well.
