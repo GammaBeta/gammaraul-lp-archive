@@ -10,7 +10,7 @@
 **Difficulty:** Easy (Perhaps it was bumped down by the ratings, or perhaaps I didn't set it correctly, either way it's weird that it's set as easy when, if my memory serves me right, I had trouble with the level.) <br>
 **Difficulty Score:** 9 <br>
 **Saved:** 08/07/16 at 02:38 UTC <br>
-**Unix Epoch (Saving):** 1470623899
+**Unix Epoch (Saving):** 1470623899 <br>
 **Published:** 08/07/16 at 02:38 UTC <br>
 **Unix Epoch (Publishing):** 1470623899
 
