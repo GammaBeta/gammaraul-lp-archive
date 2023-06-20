@@ -8,8 +8,7 @@
 **Difficulty:** Easy <br>
 **Published:** 08/08/2016 23:38 UTC (It doesn't say when the level was saved to the servers when you look at the site, but the site admins helped me get the timestamps for when the unreleased ones were saved)
 
-**Description:** <br>
-MARIO BROS<br>
+**Description:** MARIO BROS<br>
 ===============================================<br>
 WORLD 1 (8%)
 
