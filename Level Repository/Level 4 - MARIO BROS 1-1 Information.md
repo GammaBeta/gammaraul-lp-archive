@@ -9,8 +9,8 @@
 **Published:** 08/08/2016 23:38 UTC (It doesn't say when the level was saved to the servers when you look at the site, but the site admins helped me get the timestamps for when the unreleased ones were saved)
 
 **Description:** <br>
-MARIO BROS
-`===============================================`
+MARIO BROS<br>
+===============================================<br>
 WORLD 1 (8%)
 
 WORLD 2 (0%)
@@ -25,8 +25,8 @@ WORLD 6 (0%)
 
 WORLD 7 (0%)
 
-WORLD 8 (0%)
-`===============================================`
+WORLD 8 (0%)<br>
+===============================================<br>
 1-2 Coming soon <br>
 **Contributors:** made by:raul <br>
 **Additional Comments by Current Me:** This is just a 1-1 remake, and apparently I wanted to make the entire game; That would've been just a waste. I do wonder why the description says 8% though, at least I finally figured out that the Contributors part was for it seems.
