@@ -10,7 +10,7 @@
 
 **Description:** <br>
 MARIO BROS
-===============================================
+`===============================================`
 WORLD 1 (8%)
 
 WORLD 2 (0%)
@@ -26,7 +26,7 @@ WORLD 6 (0%)
 WORLD 7 (0%)
 
 WORLD 8 (0%)
-===============================================
+`===============================================`
 1-2 Coming soon <br>
 **Contributors:** made by:raul <br>
 **Additional Comments by Current Me:** This is just a 1-1 remake, and apparently I wanted to make the entire game; That would've been just a waste. I do wonder why the description says 8% though, at least I finally figured out that the Contributors part was for it seems.
