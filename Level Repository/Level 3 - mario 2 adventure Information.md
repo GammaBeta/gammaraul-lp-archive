@@ -1,12 +1,18 @@
 **Creator:** GammaRaul - Regular User - Rank 5 <br>
+**Level ID:** 6814 <br>
 **Class:** Unpublished (This one has actually released, but was later deleted by me.) <br>
 **Rating:** 22% <br>
 **Votes:** 5 (The ratings that people left were sadly lost to time.) <br>
 **Plays:** 1 (Likely an error, as 1 person cannot leave 6 reviews.) <br>
 **Favorited by:** 0 <br>
 **Game:** Super Mario Bros 2 (Not to be confused with the Nintendo Entartainment System game with the same name.) <br>
+**Game ID:** 2 <br>
 **Difficulty:** Medium <br>
-**Published:** 08/08/16 at 14:24 UTC
+**Difficulty Score:** 11 <br>
+**Published:** 08/08/16 at 14:24 UTC <br>
+**Unix Epoch Time (Saving):** 1470666292 <br>
+**Published:** 08/08/16 at 14:24 UTC <br>
+**Unix Epoch Time (Publishing):** 1470666292
 
 **Description:** its easy <br>
 **Contributors:** lol <br>
