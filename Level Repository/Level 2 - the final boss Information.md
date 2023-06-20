@@ -9,9 +9,9 @@
 **Game ID:** 14 <br>
 **Difficulty:** Medium <br>
 **Difficulty Score:** 14 <br>
-**Saved:** 08/08/16 at 14:00 UTC <br>
+**Saved:** 08/08/16 at 14:00:46 UTC <br>
 **Unix Epoch Time (Saving):** 1470664846 <br>
-**Published:** 08/08/16 at 14:00 UTC <br>
+**Published:** 08/08/16 at 14:00:46 UTC <br>
 **Unix Epoch Time (Publishing):** 1470664846
 
 **Description:** time to fight bowser!!!! <br>
