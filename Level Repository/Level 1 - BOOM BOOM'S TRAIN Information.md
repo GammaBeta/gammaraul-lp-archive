@@ -17,4 +17,4 @@
 **Description:** THATS HARD NOT TOO FOR THE PROS <br>
 **Contributors:** ADVENTURE IN THE BOOM BOOM'S TRAIN (My old self must've thought this section was a second description.) <br>
 **Additional Comments by Current Me:** This was the first level I ever uploaded to LP, and I made it in a few hours, I also wasn't really that skilled at the editor so it's kind of jank; I originally wanted to make something similar to Luigibonus' Theater levels, even going as far as to copy the setup exactly at the start, but I didn't figure out how to make it, so I turned it into a train. <br>
-Edit: Regarding the difficulty, judging by the fact that the difficulty score is higher than 3, it's probably the case that the ratings bumped it down and not a mistake on my part.
+Edit: Regarding the difficulty, judging by the fact that the difficulty score is higher than 3, it's probably the case that the ratings bumped it down and not a mistake on my part. (I'm assuming that a score between 1 and 3 means it hasn't been altered by ratings and is how the creator marked the difficulty as.)
