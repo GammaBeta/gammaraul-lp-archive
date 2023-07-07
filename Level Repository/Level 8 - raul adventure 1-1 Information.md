@@ -3,7 +3,7 @@
 **Class:** Unpublished (Never released) <br>
 **Rating:** 0% <br>
 **Votes:** 0 <br>
-**Plays:** 1 (Somehow; Maybe it was me?) <br>
+**Plays:** 1 (Somehow; It probably was me, or maybe one of the admins.) <br>
 **Favorited by:** 0 <br>
 **Game:** Super Mario Flash 2 <br>
 **Game ID:** 10 <br>
