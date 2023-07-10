@@ -16,4 +16,4 @@
 
 **Description:** SOOOOOooooooooooo put on the comments ideas <br>
 **Contributors:** made by raul <br>
-**Additional Comments by Current Me:** Once again, I make a fan-made Undertale bossfight in Super Mario Flash 2; I actually remember making this one, specifically the 'ride on the mole' part, and I actually kind of like it.
+**Additional Comments by Current Me:** Once again, GammaRaul makes a fan-made Undertale bossfight in Super Mario Flash 2; I actually remember making this one, specifically the 'ride on the mole' part, and I actually kind of like it.
