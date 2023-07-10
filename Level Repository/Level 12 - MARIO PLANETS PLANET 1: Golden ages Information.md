@@ -16,4 +16,4 @@
 
 **Description:** planet 2coming soon <br>
 **Contributors:** made by raul <br>
-**Additional Comments by Current Me:** Once again, I start a series I never finished; I don't have much to say about this, except that it's cool how you can see my skill and style slowly evolve.
+**Additional Comments by Current Me:** Once again, I start a series I never finished; I don't have much to say about this, except that it's cool how you can see that my skill at making levels and my style are slowly evolving as I make these.
