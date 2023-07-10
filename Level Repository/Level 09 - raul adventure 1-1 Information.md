@@ -17,4 +17,4 @@
 **Description:**  lol <br>
 **Contributors:** feito por raul <br>
 **Additional Comments by Current Me:** The contrubutors once again translates to 'Made by Raul.' Do not let yourself be fooled by the fact that almost everything about this is identical to the previous level, it's actually an updated version of the previous level, having a second, slightly more puzzle-like section (that is sadly too short in my opinion) which is named 'Level 1 Act 2' like this is some Sonic game or something. I actually kind of like this one, especially the second section. <br>
-Edit: Maybe the reason I have two different versions of the same level saved is I didn't realize you could actually update your levels and didn't need to reupload them to update them.
+**Edit:** Maybe the reason I have two different versions of the same level saved is I didn't realize you could actually update your levels and didn't need to reupload them to update them.
