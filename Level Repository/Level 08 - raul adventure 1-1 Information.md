@@ -16,4 +16,4 @@
 
 **Description:**  plz rate 100 <br>
 **Contributors:** feito por raul <br>
-**Additional Comments by Current Me:** The contrubutors translates to 'Made by Raul.' There's not much to say, it's just a somewhat standard (albeit unfinished) platforming level, though I think entering the pipe is meant to simulate the Pipe Cannon from Super Mario World. Apparently I had written the contents for a message box (which roughly translate to 'Here is your prize for surviving my tomfoolery') but I never used it.
+**Additional Comments by Current Me:** The contrubutors translates to 'Made by Raul.' There's not much to say, it's just a somewhat standard (albeit unfinished) platforming level, though I think entering the pipe is meant to simulate the Pipe Cannon from Super Mario World. Apparently I had written the contents for a message box (which roughly translate to 'Here is your prize for surviving my tomfoolery,' though it has a typo) but I never used it.
