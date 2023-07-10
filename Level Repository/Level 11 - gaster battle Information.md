@@ -16,4 +16,4 @@
 
 **Description:** if the gaster... <br>
 **Contributors:** feito por raul <br>
-**Additional Comments by Current Me:** The contributors once again translates to 'Made by Raul.' A fanmade Undertale Gaster Bossfight, made in Super Mario Flash 2 of all places, and there's a P-Switch for some reason; The message in text box at the staart translates to 'Dark, Darker, Yet Darker, the Darkness Keeps Growing,'albeit with a Typo.
+**Additional Comments by Current Me:** The contributors once again translates to 'Made by Raul.' A fan-made Undertale Gaster Bossfight, made in Super Mario Flash 2 of all places, and there's a P-Switch for some reason; The message in text box at the staart translates to 'Dark, Darker, Yet Darker, the Darkness Keeps Growing,'albeit with a Typo.
