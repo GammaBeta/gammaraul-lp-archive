@@ -17,4 +17,4 @@
 **Description:**  PUT THIS MUSIC ;) <br>
 https://www.youtube.com/watch?v=EQu613NHKcY <br>
 **Contributors:** Made By Raul <br>
-**Additional Comments by Current Me:** My Younger Self LIED, there are actually THIRTEEN ways you can die in Super Mario Flash 2, unless there's a way to get to the bridge up above that I missed somehow.
+**Additional Comments by Current Me:** My Younger Self LIED, these are actually THIRTEEN ways you can die in Super Mario Flash 2, unless there's a way to get to the bridge up above that I missed somehow.
