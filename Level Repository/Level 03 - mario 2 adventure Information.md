@@ -3,7 +3,7 @@
 **Class:** Unpublished (This one has actually released, but was later deleted by me.) <br>
 **Rating:** 22% <br>
 **Votes:** 5 (The ratings that people left were sadly lost to time.) <br>
-**Plays:** 1 (Likely an error, as 1 person cannot leave 6 reviews.) <br>
+**Plays:** 1 (Likely an error, as 1 person cannot leave 5 reviews.) <br>
 **Favorited by:** 0 <br>
 **Game:** Super Mario Bros 2 (Not to be confused with the Nintendo Entartainment System game with the same name.) <br>
 **Game ID:** 2 <br>
