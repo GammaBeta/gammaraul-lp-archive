@@ -3,7 +3,7 @@
 **Class:** Unpublished (This one apparently was actually released and later deleted, I don't remember this at all.) <br>
 **Rating:** 3.7% <br>
 **Votes:** 7 (The ratings that people left were sadly lost to time.) <br>
-**Plays:** 1 (Likely an error, as 1 person cannot leave 6 reviews.) <br>
+**Plays:** 1 (Likely an error, as 1 person cannot leave 7 reviews.) <br>
 **Favorited by:** 2 (If the ratings are anything to go by then this is a miracle.) <br>
 **Game:** Super Mario Bros 3 (Not to be confused with the Nintendo Entartainment System game with the same name.) <br>
 **Game ID:** 14 <br>
