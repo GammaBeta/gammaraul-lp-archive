@@ -10,7 +10,7 @@
 **Difficulty:** Easy <br>
 **Difficulty Score:** 1 <br>
 **Saved:** 10/12/2016 01:32:36 UTC (It doesn't say when the level was saved to the servers when you look at the site, but the site admins helped me get the dates for when the unreleased ones were saved) <br>
-**Unix Epoch Time (Saving):** 1476235956 (Read Additional Comments) <br>
+**Unix Epoch Time (Saving):** 1476235956 <br>
 **Published:** Unpublished <br>
 **Unix Epoch Time (Publishing):** N/A
 
