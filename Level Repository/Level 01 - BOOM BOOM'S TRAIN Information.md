@@ -9,7 +9,7 @@
 **Game ID:** 2 <br>
 **Difficulty:** Easy (Perhaps it was bumped down by the ratings, or perhaps I didn't set it correctly, either way it's weird that it's set as easy when, if my memory serves me right, I had trouble with the level.) <br>
 **Difficulty Score:** 9 <br>
-**Saved:** 08/07/16 at 02:38:19 UTC <br>
+**Saved:** 08/07/16 at 02:38:19 UTC (It doesn't say when the level was saved to the servers when you look at the site, but the site admins helped me get the dates for when the unreleased ones were saved) <br>
 **Unix Epoch (Saving Time):** 1470623899 <br>
 **Published:** 08/07/16 at 02:38:19 UTC <br>
 **Unix Epoch (Publishing Time):** 1470623899
