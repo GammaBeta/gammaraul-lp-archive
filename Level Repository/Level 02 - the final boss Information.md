@@ -9,7 +9,7 @@
 **Game ID:** 14 <br>
 **Difficulty:** Medium <br>
 **Difficulty Score:** 14 <br>
-**Saved:** 08/08/16 at 14:00:46 UTC <br>
+**Saved:** 08/08/16 at 14:00:46 UTC (It doesn't say when the level was saved to the servers when you look at the site, but the site admins helped me get the dates for when the unreleased ones were saved) <br>
 **Unix Epoch Time (Saving):** 1470664846 <br>
 **Published:** 08/08/16 at 14:00:46 UTC <br>
 **Unix Epoch Time (Publishing):** 1470664846
