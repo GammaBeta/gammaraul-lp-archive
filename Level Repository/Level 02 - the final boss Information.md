@@ -1,4 +1,4 @@
-**Creator:** GammaRaul - Regular User - Rank 5 <br>
+**Creator:** GammaRaul - Regular User - Rank 5 (ID 411) <br>
 **Level ID:** 6812 <br>
 **Class:** Unpublished (This one apparently was actually released and later deleted, I don't remember this at all.) <br>
 **Rating:** 3.7% <br>
