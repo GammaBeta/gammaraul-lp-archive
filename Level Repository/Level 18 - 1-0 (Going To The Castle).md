@@ -9,7 +9,7 @@
 **Game ID:** 1 <br>
 **Difficulty:** Easy <br>
 **Difficulty Score:** 5 <br>
-**Published:** 05/07/17 at 00:06:51 UTC <br>
+**Published:** 05/07/17 at 00:06:51 UTC (It doesn't say when the level was saved to the servers when you look at the site, but the site admins helped me get the dates for when the unreleased ones were saved) <br>
 **Unix Epoch Time (Saving):** 1494115611 <br>
 **Published:** 05/11/17 at 14:36:35 UTC <br>
 **Unix Epoch Time (Publishing):** 1494513395
