@@ -6,7 +6,7 @@
 **Plays:** 1 (Somehow; Maybe it was me?) <br>
 **Favorited by:** 0 <br>
 **Game:** Super Mario Bros (Not to be confused with the Nintendo Entartainment System game with the same name.) <br>
-**Game ID:** 4 <br>sssss
+**Game ID:** 4 <br>
 **Difficulty:** Easy <br>
 **Difficulty Score:** 1 <br>
 **Saved:** 08/11/2016 22:47:58 UTC (It doesn't say when the level was saved to the servers when you look at the site, but the site admins helped me get the dates for when the unreleased ones were saved) <br>
