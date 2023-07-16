@@ -5,7 +5,7 @@
 **Votes:** 0 <br>
 **Plays:** 1 (Somehow; It probably was me, or maybe one of the admins.) <br>
 **Favorited by:** 0 <br>
-**Game:** Super Mario Bros (Not to be confused with the Nintendo Entartainment System game with the same name.) <br>
+**Game:** Super Mario Bros (Not to be confused with the Nintendo Entertainment System game with the same name.) <br>
 **Game ID:** 28 <br>
 **Difficulty:** Easy <br>
 **Difficulty Score:** 1 <br>
