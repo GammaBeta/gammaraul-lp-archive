@@ -16,4 +16,4 @@
 
 **Description:** A Brand New Green Hill Zone For Those Who Are Bored Of All Remakes! <br>
 **Contributors:** Raul <br>
-**Additional Comments by Current Me:** Even when I was little, I knew people were tired of the Green Hill Zone copies, but I'm not sure how this was meant to change things up, though I suppose it does succeed at this jobe, given how it's not built on a Sonic game, but instead on a reskin of a fanmade Mario game, and I never finished it; A shame, though to compensate, my next level is gonne be a big one.
+**Additional Comments by Current Me:** Even when I was little, I knew people were tired of the Green Hill Zone copies, but I'm not sure how this was meant to change things up, though I suppose it does succeed at this jobe, given how it's not built on a Sonic game, but instead on a reskin of a fanmade Mario game, and I never finished it; A shame, though to compensate, my next level is gonna be a big one.
