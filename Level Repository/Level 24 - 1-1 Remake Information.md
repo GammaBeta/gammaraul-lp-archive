@@ -5,7 +5,7 @@
 **Votes:** 0 <br>
 **Plays:** 1 (Somehow; It probably was me, or maybe one of the admins.) <br>
 **Favorited by:** 0 <br>
-**Game:** Super Mario Flash 1 <br>
+**Game:** Super Mario Flash <br>
 **Game ID:** 1 <br>
 **Difficulty:** Easy <br>
 **Difficulty Score:** 1 <br>
