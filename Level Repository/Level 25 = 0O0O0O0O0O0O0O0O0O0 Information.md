@@ -16,4 +16,4 @@
 
 **Description:** 000OOO0O00O0O0O0O0O00O0O0O0OOO00 <br>
 **Contributors:** Ra0l <br>
-**Additional Comments by Current Me:** It's just a level with a white background and a glitched level size, you can't really do anything in it.
+**Additional Comments by Current Me:** It's just a level with a white background and a glitched level size, inspired by a person named Retzorg's own glitchd levels. you can't really do anything in it.
