@@ -18,4 +18,4 @@
 
 THE SANDY CASTLE <br>
 **Contributors:** Raul <br>
-**Additional Comments by Current Me:** I think  I remember making this level, but I'm unsure, as there's a similar level I made later down the line, who also happens to be one of the only ones who were published and never deleted.
+**Additional Comments by Current Me:** I think I remember making this level, but I'm unsure, as there's a similar level I made later down the line, who also happens to be one of the only ones who were published and never deleted.
