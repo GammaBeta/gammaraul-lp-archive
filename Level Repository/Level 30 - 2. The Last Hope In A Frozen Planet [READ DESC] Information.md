@@ -22,4 +22,4 @@ Note: The Pipe At The End Represent You Going To The Core
 
 Note2: You Are On The Castle Of The Dead <br>
 **Contributors:** Raul <br>
-**Additional Comments by Current Me:** Honestly, I don't really think of this as a worthy sequel to A Little Ice, maybe it's because it's unfinished, but something about it just doesn't click with me as being a sequel, y'know? A tad disappointing for my 30th level, ut at least the next one will be my second ever published level to not be deleted!
+**Additional Comments by Current Me:** Honestly, I don't really think of this as a worthy sequel to A Little Ice, maybe it's because it's unfinished, but something about it just doesn't click with me as being a sequel, y'know? A tad disappointing for my 30th level, ut at least the next one will be my second ever published level to not be deleted! Also, this is the first level I made to have a thumbnail, hence the image I added.
