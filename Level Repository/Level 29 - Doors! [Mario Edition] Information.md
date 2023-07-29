@@ -16,4 +16,4 @@
 
 **Description:** A Mario Version Of An Animation That Inspired Us All <br>
 **Contributors:** Raul <br>
-**Additional Comments by Current Me:** I only made 3 rooms for this.  A shame, I would've liked to see where it went.
+**Additional Comments by Current Me:** I only made 3 rooms for this, a shame, I would've liked to see where it went; Perhaps I will give this concept another shot? Anyway, it is on this level where my second era on LP comes to a close, as after this one I once again forgot about the site for an extended period of time.
