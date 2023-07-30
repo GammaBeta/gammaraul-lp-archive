@@ -16,4 +16,4 @@
 
 **Description:** Remake Of An Old Level Of Mine <br>
 **Contributors:** No additional contributors. <br>
-**Additional Comments by Current Me:** I barely even started this one, sadly. TRhis is becoming a trend, and one I do not like.
+**Additional Comments by Current Me:** This one also had the layer priorities messed up, though that doesn't wquite matter, given how it was barely even started, like some of the other levels. This is becoming a worrying trend.
