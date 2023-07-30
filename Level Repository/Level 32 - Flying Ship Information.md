@@ -16,4 +16,4 @@
 
 **Description:** Remake Of An Old Level Of Mine <br>
 **Contributors:** No additional contributors. <br>
-**Additional Comments by Current Me:** This one also had the layer priorities messed up, though that doesn't wquite matter, given how it was barely even started, like some of the other levels. This is becoming a worrying trend.
+**Additional Comments by Current Me:** This one also had the layer priorities messed up, though that doesn't wquite matter, given how it was barely even started, this is becoming a worrying trend. Also, if you haven't noticed, this was meant to be a remake of Boom Boom's Train.
