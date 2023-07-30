@@ -18,4 +18,4 @@
 
 Ɩ-Ɩ plɹoM ˙soɹq oᴉɹɐW ɹǝdnS: [REDACTED] <br>
 **Contributors:** No additional contributors. <br>
-**Additional Comments by Current Me:** I have once again redacted the link, as even though it redirects to IggyHop's level, since LP is shutting down soon, it's possible that in the future someone else has taken the URL and is using for malicious purposes; Anyhow, this is just the start of 1-2 but upside doesn't, I didn't even get far eneough to add anything unique to the level, sad.
+**Additional Comments by Current Me:** I have once again redacted the link, as even though it redirects to IggyHop's level, since LP is shutting down soon, it's possible that in the future someone else has taken the URL and is using for malicious purposes; Anyhow, this is just the start of 1-2 but upside doesn't, I didn't even get far eneough to add anything unique to the level like IggyHop did to the original, sad.
