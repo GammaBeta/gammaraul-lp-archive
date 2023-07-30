@@ -20,4 +20,4 @@ Also, Sorry If This Is A Short And Bad Level, But I Tried To Be Quick Before Som
 
 Also, This Is A Remake Of An Deleted IggyHop Level Which I Reuploaded But Deleted So I Can Get A Higher Average Level Score, Well, That One Didnt Do Anything With The Story Of W2 <br>
 **Contributors:** No additional contributors. <br>
-**Additional Comments by Current Me:** I have nothing to say about this except that it was extremely rushed, though I do find it funny how I considered this a 'Remake' of Iggyhope's level despite the fact that this doesn't look anything like their level.
+**Additional Comments by Current Me:** I have nothing to say about this except that it was extremely rushed, though I do find it funny how I considered this a 'Remake' of IggyHop's level despite the fact that this doesn't look anything like their level. Also, it's a bit ironic how even the remake, which DID add stuff to the story, also got deleted for low ratings.
