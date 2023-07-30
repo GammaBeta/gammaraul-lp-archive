@@ -18,4 +18,4 @@
 
 Story: Once Again, Bowser Kidnapped Peach And Bla Bla Bla, But This Time, Bowser Outsmarted Mario By Putting Various Endings, And Since This Is Not Telltale Games, If You Mess Up In A Choice, You Mess Up In Everything <br>
 **Contributors:** No additional contributors. <br>
-**Additional Comments by Current Me:** I didn't even finish anything more than the intro screen and the iconic 1-1 Block Setup in the Nostalgia World, which is a  huge shame because I would've loved to see where this went.
+**Additional Comments by Current Me:** I didn't even finish anything more than the intro screen and the iconic 1-1 Block Setup in the Nostalgia World, which is a  huge shame because I would've loved to see where this went. Also this one also has the Custom BG thing.
