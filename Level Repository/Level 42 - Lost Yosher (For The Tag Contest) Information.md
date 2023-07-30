@@ -19,4 +19,4 @@
 Deadfish's Part: From 0x To 3740x <br>
 My Part: From 4060x To 7280 <br>
 **Contributors:** No additional contributors. (What were you smoking, 9-year-old me?) <br>
-**Additional Comments by Current Me:** This is a quite tough, non-linear level I and Fesh made for a Collab Contest, and it's quite good, even if it was too hard for me, but I have to wonder, why did I delete it? It seems like a perfectly presentble level for the tag. Is there something I'm forgetting? I'll have to ask Fesh later.
+**Additional Comments by Current Me:** This is a quite tough, non-linear level I and Fesh made for a Collab Contest, and it's quite good, even if it was too hard for me, but I have to wonder, why did I delete it? It seems like a perfectly presentble level for the tag. Is there something I'm forgetting? I'll have to ask Fesh later. Also, the whole problem with the Custom Backgrounds also happens for Custom Songs, my sincerest apologies.
