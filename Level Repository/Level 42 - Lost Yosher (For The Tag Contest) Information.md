@@ -3,7 +3,7 @@
 **Class:** Unpublished (This one has actually released, but was later deleted by me.) <br>
 **Rating:** 0% <br>
 **Votes:** 0 <br>
-**Plays:** 1 (Likely an error, as 1 person cannot leave 6 reviews.) <br>
+**Plays:** 1 (At this point I'm sure it was me.) <br>
 **Favorited by:** 0 <br>
 **Game:** Super Mario Flash 2 <br>
 **Game ID:** 10 <br>
