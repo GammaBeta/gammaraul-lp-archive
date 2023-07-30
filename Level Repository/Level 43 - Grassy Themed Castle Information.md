@@ -1,6 +1,6 @@
 **Creator:** GammaRaul - Regular User - Rank 5 (ID 411) <br>
 **Level ID:** 15058 <br>
-**Class:** Unpublished (This one has actually released, but was later deleted by me.) <br>
+**Class:** Unpublished (Never released.) <br>
 **Rating:** 0% <br>
 **Votes:** 0 <br>
 **Plays:** 1 (At this point I'm sure it was me.) <br>
