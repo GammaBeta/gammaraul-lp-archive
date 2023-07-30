@@ -21,4 +21,4 @@ Description (Before It Was Deleted):
 Fun fact: the level is actually possible. <br>
 Also sorry for making terrible 3d pixel art, but it's not my fault. <br>
 **Contributors:** (Before It Was Deleted): Retzorg, Dogng, A7 and Raul (Previous cake lewel makers) <br>
-**Additional Comments by Current Me:** I have nothing much to say, except that for some reason I put a thumbbnail on this one too, though it's the same thumbnail as the next level, so I haven't bothered uploading it for this one as uploading the same thumbnail two times is redundant.
+**Additional Comments by Current Me:** I have nothing much to say, except that for some reason I put a thumbbnail on this one too, though it's the same thumbnail as the next level, so I haven't bothered uploading it for this one as uploading the same thumbnail two times is redundant, and m prioritizing the next level as it is more of a level.
