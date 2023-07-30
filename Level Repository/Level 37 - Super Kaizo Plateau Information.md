@@ -7,7 +7,7 @@
 **Favorited by:** 0 <br>
 **Game:** Super Mario Flash 3 <br>
 **Game ID:** 28 <br>
-**Difficulty:** hARD <br>
+**Difficulty:** Hard <br>
 **Difficulty Score:** 3 <br>
 **Saved:** 07/15/2018 20:52:07 UTC (It doesn't say when the level was saved to the servers when you look at the site, but the site admins helped me get the dates for when the unreleased ones were saved) <br>
 **Unix Epoch Time (Saving):** 1531687927 <br>
