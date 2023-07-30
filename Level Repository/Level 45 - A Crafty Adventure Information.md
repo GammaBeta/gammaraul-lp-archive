@@ -16,4 +16,4 @@
 
 **Description:** Game: [REDACTED] <br>
 **Contributors:** No additional contributors. <br>
-**Additional Comments by Current Me:** One of the few, if not the only time where the game links I put in the readme.md file don't suffice, because the hack this one was made for wasn't on LP, and I don't have the download on me to share at the moment, but I will update it when I do, until then, you can just load up the level code on SMF2, even if it looks jank.
+**Additional Comments by Current Me:** I have redacted the link as the site it linked to has shut down, and I don't want any  future viewers to enter a potentually dangerous site because someone malicious took the URL. One of the few, if not the only time where the game links I put in the readme.md file don't suffice, because the hack this one was made for wasn't on LP (the hack being Super Mariocraft Flash), and I don't have the download on me to share at the moment, but I will update it when I do, until then, you can just load up the level code on SMF2, even if it looks jank.
