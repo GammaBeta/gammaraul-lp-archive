@@ -14,11 +14,7 @@
 **Published:** 20/08/18 at 15:29:29 UTC <br>
 **Unix Epoch (Publishing Time):** 1534778969
 
-**Description:** Original By IggyHopXD
-
-Description (Before It Was Deleted):
-
-Fun fact:  Me And Deadfish's Entry For The Tag Contest
+**Description:** Fun fact:  Me And Deadfish's Entry For The Tag Contest
 
 Deadfish's Part: From 0x To 3740x <br>
 My Part: From 4060x To 7280 <br>
