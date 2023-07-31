@@ -16,4 +16,4 @@
 
 **Description:**  No level description. <br>
 **Contributors:** No additional contributors. <br>
-**Additional Comments by Current Me:** This is barely finished, though I find it funny that I established myself as the unnofficial Cake Regulator. Also, why did the creator of this hack make the text so unreadable on a black background, and why do you start underwater? Why did you start underwater in the last level too? Is this the start of a pattern?
+**Additional Comments by Current Me:** This is barely finished, why must every 10th level be cursed to be disappointing? I find it funny that I established myself as the unnofficial Cake Regulator thouh. Also, why did the creator of this hack make the text so unreadable on a black background, and why do you start underwater? Why did you start underwater in the last level too? Is this the start of a pattern?
