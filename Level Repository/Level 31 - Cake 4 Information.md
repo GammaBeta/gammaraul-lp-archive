@@ -21,6 +21,6 @@ Cake 1: [REDACTED] <br>
 Cake 2: [REDACTED] <br>
 Cake 3: [REDACTED] <br>
 Time to investigate. <br>
-**Contributors:** No additional contributors. (For once I actually didn't fill in this one!)
+**Contributors:** No additional contributors. (For once I actually didn't fill in this one!) <br>
 **Additional Comments by Current Me:** Ah, Cake 4, where do I start. Okay, so before you ask, I redacted the links that were previously present because, in the time since I posted the level, they've been changed to redirect to different places, and I don't want to be responsible for any potential future viewers catching malware because tthe links now redirect to malicious sites. Anyhow, Cake was a level franchise that existed in 2018 that was kickstarted by a level Retzorg, the person who inspired me to make the weird O0O0O0 level, with a glitch level that's just a picture of a cake, and this inspired other members to make it into a franchise of actual levels, and quite a few people joined in (including Tristaph, one of the site Admins!) <br>
 As for the level itself, it's not the best thing I've ever made, and it is a bit of a mess and kind of inconsistent, though honestly it's kind of charming; I don't remember why Pickle Rick is there, I think it was because it somehow became a bit of a joke etween the people who made these early Cake levels, and I wanted to join in, s for the vaguely phallic-looking pixel art object, I think that's meant to be ice cream. I'm kind of nostalgic for this level, i remember making it during the 2018 World Cup.
