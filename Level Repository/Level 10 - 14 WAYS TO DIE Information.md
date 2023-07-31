@@ -17,4 +17,4 @@
 **Description:**  PUT THIS MUSIC ;) <br>
 https://www.youtube.com/watch?v=EQu613NHKcY <br>
 **Contributors:** Made By Raul <br>
-**Additional Comments by Current Me:** My Younger Self LIED, these are actually THIRTEEN ways you can die in Super Mario Flash 2, unless there's a way to get to the bridge up above that I missed somehow.
+**Additional Comments by Current Me:** My Younger Self LIED, these are actually THIRTEEN ways you can die in Super Mario Flash 2, unless there's a way to get to the bridge up above that I missed somehow. Anyways, this is just a level where you can try out various ways to die, pretty disappointing for my 10th level. Also, in case you're wondering, I'm pretty sure the link in the description is there because I didn't know how to add custom songs.
