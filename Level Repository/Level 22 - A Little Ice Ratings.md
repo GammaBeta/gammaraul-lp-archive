@@ -19,7 +19,7 @@ Dificultad : Medio
 
 Total de Dragon Coins obtenidas por Migcat48CW <br>
 Dragon Coins : ?/? <br>
-**01/27/21 at 04:04 UTC**
+**01/27/21 at 05:04 UTC**
 
 ----
 
