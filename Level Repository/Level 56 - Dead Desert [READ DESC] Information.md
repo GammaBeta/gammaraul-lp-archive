@@ -3,7 +3,7 @@
 **Class:** Unpublished (Never released.) <br>
 **Rating:** 0% <br>
 **Votes:** 0 <br>
-**Plays:** 2 (FUCKING WHAT.) <br>
+**Plays:** 2 (I think it was me and Filip because you can share unreleased levels with others for tags) <br>
 **Favorited by:** 0 <br>
 **Game:** Super Mario Construct <br>
 **Game ID:** 49 <br>
@@ -21,4 +21,4 @@ Oh, and don't mind all the bricks laying around, they're just the heated up clay
 
 Song: www.youtube.com/watch?v=j_Ypv94AD5U <br>
 **Contributors:** GammaRaul And NESFilipGamer <br>
-**Additional Comments by Current Me:** My first ever SMC level (that I saved, at least), and while it's unfinished, I did make a omewhat resectbale amount compared to mye other levels, also apparently NESFillipGamer was involved in the creation of this? Anyways, it appears as if, despite nowing how to add custom ongs to SMF games, I didn't know how to do that with SMC, and that's why I left the link in the description; Either that or the link I used for the song in the level expired, I don't remember.
+**Additional Comments by Current Me:** My first ever SMC level (that I saved, at least), and while it's unfinished, I did make a omewhat resectbale amount compared to mye other levels, also apparently NESFilipGamer was involved in the creation of this? Anyways, it appears as if, despite nowing how to add custom ongs to SMF games, I didn't know how to do that with SMC, and that's why I left the link in the description; Either that or the link I used for the song in the level expired, I don't remember.
