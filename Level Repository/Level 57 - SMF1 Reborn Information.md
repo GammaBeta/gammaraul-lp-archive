@@ -3,7 +3,7 @@
 **Class:** Unpublished (Never released.) <br>
 **Rating:** 0% <br>
 **Votes:** 0 <br>
-**Plays:** 1 (Okay it's back to normal now) <br>
+**Plays:** 1 (At this point I'm sure it was me.) <br>
 **Favorited by:** 0 <br>
 **Game:** Super Mario Construct <br>
 **Game ID:** 49 <br>
