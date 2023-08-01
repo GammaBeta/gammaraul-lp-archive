@@ -11,7 +11,7 @@
 **Difficulty Score:** 2 <br>
 **Saved:** 17/10/18 at 23:17:27 UTC (It doesn't say when the level was saved to the servers when you look at the site, but the site admins helped me get the dates for when the unreleased ones were saved) <br>
 **Unix Epoch (Saving Time):** 1539818247 <br>
-**Published:** 21/10/18 00:40:10 <br>
+**Published:** 21/10/18 00:40:10 UTC <br>
 **Unix Epoch (Publishing Time):** 1542760810
 
 **Description:** Game: [REDACTED]
