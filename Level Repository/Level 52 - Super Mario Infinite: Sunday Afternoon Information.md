@@ -14,8 +14,8 @@
 **Published:** Unpublished <br>
 **Unix Epoch (Publishing Time):** N/A
 
-**Description:** Game: https://nitrogamersmf2.weebly.com/
+**Description:** Game: [REDACTED]
 
 Story: Mario Decides To Take A Walk When There Is A Enemy Infestation And A Few Puzzles He Must Solve To Get Back Home <br>
 **Contributors:** No additional contributors. <br>
-**Additional Comments by Current Me:** That's right, not only is this a Crafty Adventure situation, but also a Raul Adventure situation, and the reason why I think this happened is because I must've accidentally published the previous one, deleted it, then re-saved it, which is why I have two separate copies, and why the saving time for this one is very close to the publishing time of the last one. As for the level itself, I added a little more to it, and while it's not even halfway finished, I do wish I had finished it, because this one has potential.
+**Additional Comments by Current Me:** You already know the deal with the redacted links, anyways, that's right, not only is this a Crafty Adventure situation, but also a Raul Adventure situation, and the reason why I think this happened is because I must've accidentally published the previous one, deleted it, then re-saved it, which is why I have two separate copies, and why the saving time for this one is very close to the publishing time of the last one. As for the level itself, I added a little more to it, and while it's not even halfway finished, I do wish I had finished it, because this one has potential.
