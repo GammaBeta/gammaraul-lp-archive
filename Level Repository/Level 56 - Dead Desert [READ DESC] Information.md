@@ -3,7 +3,7 @@
 **Class:** Unpublished (Never released.) <br>
 **Rating:** 0% <br>
 **Votes:** 0 <br>
-**Plays:** 2 (I think it was me and Filip because you could share unreleased levels with others for tags, so if they played it, it would show up.) <br>
+**Plays:** 2 (I think it was me and Filip because you could share unreleased levels with others for tags, so if they played it, it would show up in the plays section, making it seem like a ghost played the level or something to people not aware of this feature.) <br>
 **Favorited by:** 0 <br>
 **Game:** Super Mario Construct <br>
 **Game ID:** 49 <br>
