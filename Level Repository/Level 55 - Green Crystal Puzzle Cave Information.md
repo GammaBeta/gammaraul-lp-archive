@@ -16,4 +16,4 @@
 
 **Description:** No level description. <br>
 **Contributors:** No additional contributors. <br>
-**Additional Comments by Current Me:** I like this level, I like it's theming, I like the puzzles (even if they are piss easy), and I wish I had finished this level, because it has a lot of potential. Anyhow, only 5 levels to go before my level Archive is finished! Let's do this.
+**Additional Comments by Current Me:** I like this level, I like its theming, I like the puzzles (even if they are piss easy), and I wish I had finished this level, because it has a lot of potential. Anyhow, only 5 levels to go before my level Archive is finished! Let's do this.
