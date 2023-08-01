@@ -16,4 +16,4 @@
 
 **Description:** Bowser has taken over the mushroom kingdom and taken it back to one of its earliest forms, and now Mario has to stop bowser's evil deeds. <br>
 **Contributors:** No additional contributors. <br>
-**Additional Comments by Current Me:** This level was barely even started, it's been a while since we've seen one like that. A shame.
+**Additional Comments by Current Me:** This level was barely even started, it's been a while since we've seen one like that. A shame. Also, in case you were wondering, the name WAS inspired by Siivagunner's King for Another Day.
