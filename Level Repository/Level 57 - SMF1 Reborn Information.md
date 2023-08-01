@@ -16,4 +16,4 @@
 
 **Description:** A remake of SMF1's Story Mode on SMC <br>
 **Contributors:** No additional contributors. <br>
-**Additional Comments by Current Me:** A remake of the original Super Mario Flash's Story Mode in SMC, even coming with a cool little hub area, though sadly, I didn't really make much, I didn't even make the start of the first level! A shame, I wish I had finished it, maybe one day I will?
+**Additional Comments by Current Me:** A remake of the original Super Mario Flash's Story Mode in SMC, even coming with a cool little hub area, though sadly, I didn't really make much, I didn't even make the start of the first level! A shame, I wish I had finished it, maybe one day I will? Also, this level was meant to have a custom song, but it appears as if I didn't figure out how to do that yet.
