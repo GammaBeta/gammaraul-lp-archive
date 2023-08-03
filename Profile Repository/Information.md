@@ -6,6 +6,7 @@
 **Levels:** 3 (Only counts published levels) <br>
 **Rates:** 43 <br>
 **Friends:** 51 <br>
+**Average Level Score:** 91.2% <br>
 **Location:** Brazil
 
 **Profile Background Color:** Blue <br>
