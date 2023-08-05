@@ -34,7 +34,7 @@ This level was weak, it was just a game of luck. I'm gonna give this level a 5 o
 
 ----
 
-**LazorCozmic5 - Moderator and Best Level Maker - Rank 14 (ID 906) | 10/100** <br>
+**LazorCozmic5 - Regular User - Rank 14 (ID 906) | 10/100** <br>
 Interesting, but unfortunately I can't really award the level with a good rating seeing as not much is going on. I suppose I could give you a few points for the one galoomba challenge, but that was essentially the only thing it had to offer. The tiling was also decent, at least. Overall it ain't much of a playable level with the little it offered. Everything else I needed to say has already been said by everyone below. Shorter levels are definitely needed from time to time, but uh... this ain't it, chief. <br>
 **01/15/19 at 21:41 UTC**
 
